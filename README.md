@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">I am a full stack developer</h3>
 
-- I worked on this for customer view [Shop project](https://ashion.liara.run/shop)
+- This my customer view [Shop project](https://ashion.liara.run/shop)
 
-- I worked on this for react-admin [Shop project](https://aliizza1385.github.io/react-admin/#/)
+- And this react-admin for abov link [Shop project](https://aliizza1385.github.io/react-admin/#/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
