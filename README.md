@@ -1,4 +1,4 @@
-<h3 align="center">A backend developer from Afghanistan</h3>
+<h3 align="center">A backend developer </h3>
 
 - 🔭 I’m currently working on a blog [ABlog](https://github.com/aliizza1385/project-blog)
 
