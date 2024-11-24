@@ -13,8 +13,7 @@
 <h2>Why I code:</h2>
 <p>Coding for me is not just a profession, it's a passion. I love solving complex problems, creating efficient solutions, and contributing to the open-source community. Every new project is an opportunity to learn something new and share that knowledge with others.</p>
 
-<h2>When I'm not coding:</h2>
-<p>You can find me [mention hobbies/interests outside of coding, like playing chess, reading books, or exploring nature].</p>
+<h2>When I'm not coding:</h2> <p>You can find me enjoying a variety of activities. I'm an avid gamer, always up for a good challenge. I also love playing chess, which helps keep my mind sharp and strategic. Reading books is another one of my passions; I immerse myself in different worlds and ideas through literature. Beyond that, I enjoy exploring nature, finding peace and inspiration in the great outdoors. These hobbies not only help me relax but also fuel my creativity and problem-solving skills.</p>
 
 <p>Feel free to connect with me or check out my projects. I'm always open to collaboration and learning from the amazing community here on GitHub.</p>
 
