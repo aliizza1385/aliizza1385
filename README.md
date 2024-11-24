@@ -6,7 +6,12 @@
 <h2>What I do:</h2>
 <ul>
     <li><strong>Languages & Technologies:</strong> Proficient in Python, JavaScript, and more. Always eager to learn new languages and frameworks.</li>
-    <li><strong>Projects:</strong> <ul> <li><a href="https://github.com/aliizza1385/backend-web-shop">Backend Web Shop</a> - A comprehensive backend solution for an online shop. This project includes features like product management, user authentication, and order processing, built using Django and RESTful APIs.</li>  <li><a href="https://github.com/aliizza1385/blog">Blog</a> - A blogging platform where users can create, edit, and share their posts. This project is built with Flask and features a clean, user-friendly interface, demonstrating my abilities in web development and UI/UX design.</li> </ul></li>
+<li><strong>Projects:</strong> 
+    <ul> 
+        <li><a href="https://github.com/aliizza1385/backend-web-shop">Backend Web Shop</a> - A comprehensive backend solution for an online shop. This project includes features like product management, user authentication, and order processing, built using Django and RESTful APIs.</li>  
+        <li><a href="https://github.com/aliizza1385/blog">Blog</a> - A blogging platform where users can create, edit, and share their posts. This project is built with Flask and features a clean, user-friendly interface, demonstrating my abilities in web development and UI/UX design.</li> 
+    </ul>
+</li>
     <li><strong>Interests:</strong> AI, web development, open source contributions, and automation.</li>
 </ul>
 
