@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hi I’m alireza , i’m a backend developer , I am very open-minded and always eager to learn something new and expand my knowledge within the technology industry . If you have a question that you know I can help you with, be sure to ask<br><br>
+<h1>👋 Hi there! I'm Ali!</h1>
+
+<p>I'm a passionate developer with a keen interest in exploring the endless possibilities of code. My journey into the world of programming began [add the detail here], and since then, I've been honing my skills and building projects that excite me.</p>
+
+<h2>What I do:</h2>
+<ul>
+    <li><strong>Languages & Technologies:</strong> Proficient in Python, JavaScript, and more. Always eager to learn new languages and frameworks.</li>
+    <li><strong>Projects:</strong> [List some key projects with brief descriptions, or link to them]</li>
+    <li><strong>Interests:</strong> AI, web development, open source contributions, and automation.</li>
+</ul>
+
+<h2>Why I code:</h2>
+<p>Coding for me is not just a profession, it's a passion. I love solving complex problems, creating efficient solutions, and contributing to the open-source community. Every new project is an opportunity to learn something new and share that knowledge with others.</p>
+
+<h2>When I'm not coding:</h2>
+<p>You can find me [mention hobbies/interests outside of coding, like playing chess, reading books, or exploring nature].</p>
+
+<p>Feel free to connect with me or check out my projects. I'm always open to collaboration and learning from the amazing community here on GitHub.</p>
 
 
 
