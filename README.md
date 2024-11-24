@@ -1,5 +1,4 @@
-# 💫 About Me:
-<h1>👋 Hi there! I'm Ali!</h1>
+
 
 <p>I'm a passionate developer with a keen interest in exploring the endless possibilities of code. My journey into the world of programming began [add the detail here], and since then, I've been honing my skills and building projects that excite me.</p>
 
