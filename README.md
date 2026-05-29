@@ -54,7 +54,6 @@ Scalable multi-tenant gamification engine designed for external platform integra
 
 #### Tech Stack
 
-`Django` `DRF` `PostgreSQL` `Docker` `CI/CD`
 
 ---
 
@@ -73,7 +72,6 @@ Backend system for an astrology-based platform with analytics and referral syste
 
 #### Tech Stack
 
-`Django` `DRF` `PostgreSQL` `Redis` `Docker` `CI/CD`
 
 ---
 
@@ -90,7 +88,6 @@ Web-based online judge platform for automated code execution and evaluation.
 
 #### Tech Stack
 
-`Django` `DRF` `Docker` `Judge0 API` `PostgreSQL`
 
 ---
 
@@ -108,7 +105,6 @@ Large-scale messaging automation platform.
 
 #### Tech Stack
 
-`Django` `DRF` `Selenium` `Docker` `PostgreSQL`
 
 ---
 
@@ -125,12 +121,10 @@ Large-scale messaging automation platform.
 
 ## GitHub Stats
 
-<!-- You can add GitHub stats cards here later -->
-
 ---
 
 ## Contact
 
 * Email: [aiizza1385@gmail.com](mailto:aiizza1385@gmail.com)
 * GitHub: github.com/aliizza1385
-* LinkedIn: linkedin.com/in/YOUR-LINKEDIN
+* LinkedIn: linkedin.com/in/
