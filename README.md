@@ -119,10 +119,6 @@ Large-scale messaging automation platform.
 
 ---
 
-## GitHub Stats
-
----
-
 ## Contact
 
 * Email: [aiizza1385@gmail.com](mailto:aiizza1385@gmail.com)
